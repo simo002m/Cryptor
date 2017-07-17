@@ -5,4 +5,5 @@ To install/configure it for Linux so that it appears as a command then type:
 
 sudo bash Linux_Install_Script.sh
 
-If you run it without the sudo, it's not going to work. 
+If you run it without the sudo, it's not going to work.
+maybe this works for MacOS as well but I'm not quite sure since I don't own a MacBook.
