@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/python3
 #!/usr/bin/python3
 
 from time import sleep
@@ -48,7 +49,7 @@ def decrypt(filename):
 def options():
     print("""Cryptor - An easy-to-use tool for encrypting and decrypting a file.
         
-Note: A file that has been encrypted by this tool can only be decrypted by this tool and files text that haven't been encrypted by this tool can't be decrypted by it.\n""")
+Note: A file that has been encrypted by this tool can only be decrypted by this tool and files that haven't been encrypted by this tool can't be decrypted by it.\n""")
 
     print("e - to encrypt")
     print("d - to decrypt\n")
